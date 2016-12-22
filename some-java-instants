@@ -1,0 +1,94 @@
+JAD:
+comment:java反编译
+link:http://www.blogjava.net/landon/archive/2010/07/16/326294.html
+
+volatile:
+comment:用volatile修饰的变量，线程在每次使用变量的时候，都会读取变量修改后的最的值。
+link:http://www.cnblogs.com/aigongsi/archive/2012/04/01/2429166.html
+
+struts2
+comment:struts2简单入门
+link:http://blog.csdn.net/bin71722/article/details/51889620
+
+ThreadLocal
+comment:TreadLocal探究
+link:http://www.cnblogs.com/xupei/archive/2011/01/18/1938013.html
+
+tomcat url-pattern
+comment:url-pattern的理解
+link:http://blog.csdn.net/cooljia/article/details/187882
+     http://www.cnblogs.com/mailingfeng/archive/2012/04/05/2432687.html
+     
+JSP项目路径问题
+comment:request.getContextPath()的理解
+link:http://www.cnblogs.com/zhangminghui/p/4122821.html
+
+struts2下载
+comment:struts2数据文件下载
+link:http://blog.csdn.net/u011502132/article/details/45850167
+
+InputStream
+comment:new InputStream().available()方法的讲解
+link:http://blog.csdn.net/hongweideng/article/details/6897818
+
+rfc 1867
+comment:rfc 1867协议
+link：http://www.cnblogs.com/woainilsr/archive/2012/02/21/2361866.html
+
+request获取数据
+comment:request.getParameter() 、 request.getInputStream()和request.getReader() 使用体会
+link:http://blog.csdn.net/clam_clam/article/details/6570539
+
+java文件上传和下载
+comment:详细分析java中文件的上传与下载(servlet与流行框架)
+link:http://blog.csdn.net/canot/article/details/50657930
+
+eclipse快捷键
+comment:Eclipse 的快捷键以及文档注释、多行注释的快捷键
+link:http://www.cnblogs.com/xyzhuzhou/p/5057284.html
+
+Java中项目路径，web中路径
+comment：java获取当前路径的几种方法
+link:http://blog.csdn.net/snannan_268/article/details/5511614
+
+d3.js中data(), enter() 和 exit()的作用
+comment:很清楚的解释这几个功能在d3中的作用
+link:http://www.cnblogs.com/jarvisniu/p/4734605.html
+
+Java web高性能开发
+comment:很实用的web优化
+link:http://www.ibm.com/developerworks/cn/views/java/libraryview.jsp?sort_by=&show_abstract=true&show_all=&search_flag=&contentarea_by=Java+technology&search_by=Java+Web+%E9%AB%98%E6%80%A7%E8%83%BD%E5%BC%80%E5%8F%91&topic_by=-1&type_by=%E6%89%80%E6%9C%89%E7%B1%BB%E5%88%AB&ibm-search=%E6%90%9C%E7%B4%A2
+
+java动态代理（JDK和cglib）
+comment:java动态代理
+link:http://www.cnblogs.com/jqyp/archive/2010/08/20/1805041.html
+
+Spring注解介绍
+comment:Spring注解
+link：http://10912136.blog.51cto.com/10902136/1860691
+
+Spring框架组件介绍
+comment:Spring Framework
+link:http://docs.spring.io/spring-framework/docs/current/spring-framework-reference/html/overview.html
+
+Web Servcer和Application Server
+comment:区分server的分类，识别框架的作用范围
+link:http://stackoverflow.com/questions/936197/what-is-the-difference-between-application-server-and-web-server
+
+BeanFactory、ApplicationContext、ApplicationContextAware区别
+comment：Spring的ApplicationContext的实现
+link:http://www.cnblogs.com/duanxz/p/5081225.html
+
+Http缓存机制
+comment:HTTP缓存机制
+link:http://www.cnblogs.com/vajoy/p/5341664.html
+
+java日志体系
+comment:
+link:http://www.cnblogs.com/ZSG-DoBestMe/p/5120428.html
+     http://www.cnblogs.com/jingmoxukong/p/5910309.html
+
+java io流
+comment:java io流详解
+link:http://www.cnblogs.com/pepcod/archive/2013/01/20/2913435.html
+     http://www.cnblogs.com/skywang12345/p/io_01.html
